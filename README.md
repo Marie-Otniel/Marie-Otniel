@@ -78,20 +78,19 @@ Je suis **développeur web et Dev Writer** : je transforme des problèmes comple
 
 Je m’intéresse particulièrement à la rencontre entre **expérience utilisateur**, **identité numérique**, **automatisation** et **rédaction technique**.
 
-## Des projets avec une intention
+## Projets phares
 
-Je ne présente pas seulement des dépôts ; je présente des directions de travail.
+Des produits livrés, pas seulement des maquettes. Voici une sélection de projets où se rencontrent produit, design, code et intention.
 
-| Projet | Intention | Explorer |
-|---|---|---|
-| **Cowri Identité** | Rendre une identité numérique plus claire, plus personnelle et plus mémorable. | [Dépôt](https://github.com/Marie-Otniel/cowriidentite) |
-| **Dev Writer Core** | Réunir développement, écriture et IA dans un espace de création cohérent. | [Dépôt](https://github.com/Marie-Otniel/dev-writer-core) |
-| **RiseUp Africa Platform** | Donner une forme numérique à des initiatives qui méritent davantage de visibilité. | [Dépôt](https://github.com/Marie-Otniel/riseup-africa-platform) |
-| **Cowri Studio** | Construire une vitrine digitale avec une vraie présence visuelle. | [Dépôt](https://github.com/Marie-Otniel/cowristudio) |
-| **Venance** | Explorer une présentation web contemporaine, sobre et orientée expérience. | [Dépôt](https://github.com/Marie-Otniel/venance) |
-| **Éclat Couture** | Mettre une identité de marque au centre d’une expérience digitale élégante. | [Dépôt](https://github.com/Marie-Otniel/eclatcouture) |
+| Projet | Ce que j’ai construit | Technologies | Liens |
+|---|---|---|---|
+| **Cowri — Identité financière** | Une application fintech SaaS pour suivre, comprendre et piloter ses finances au quotidien. | React · TypeScript · Node.js · PostgreSQL · Tailwind | [Démo](https://cowrii.onrender.com) · [Dépôt](https://github.com/Marie-Otniel/cowriidentite) |
+| **APDD Event — Félicien Houngnibo** | Un portfolio premium pour un brand designer et photographe, avec une mise en scène éditoriale du travail créatif. | React · TypeScript · Tailwind · Framer Motion | [Démo](https://elite-visual-showcase.lovable.app/) · [Dépôt](https://github.com/Marie-Otniel/elite-visual-showcase) |
+| **Cave du Nord** | Une expérience digitale sombre et élégante pour un restaurant-bar lounge, avec menu, galerie et réservation. | React · Tailwind · Vercel · i18n | [Démo](https://cavedunord.vercel.app/) · [Dépôt](https://github.com/Marie-Otniel/cavefu) |
+| **Fleurielle — Copywriter** | Un site personnel orienté conversion pour clarifier le positionnement et le parcours d’une copywriter. | React · TypeScript · Tailwind · Vercel | [Démo](https://fleurielle.vercel.app/) · [Dépôt](https://github.com/Marie-Otniel/fleurielle-s-enchanted-words) |
+| **Éclat Couture** | Une vitrine digitale raffinée pour une maison de couture, avec collections, storytelling et parcours d’achat. | React · TypeScript · Tailwind · Framer Motion | [Démo](https://eclatcouture.lovable.app/) · [Dépôt](https://github.com/Marie-Otniel/eclatcouture) |
 
-[Voir l’ensemble de mes dépôts →](https://github.com/Marie-Otniel?tab=repositories)
+[Voir tous mes dépôts →](https://github.com/Marie-Otniel?tab=repositories) · [Voir le portfolio complet →](https://marieotniel.lovable.app)
 
 ## Comment je travaille
 
