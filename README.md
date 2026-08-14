@@ -80,15 +80,67 @@ Je m’intéresse particulièrement à la rencontre entre **expérience utilisat
 
 ## Projets phares
 
-Des produits livrés, pas seulement des maquettes. Voici une sélection de projets où se rencontrent produit, design, code et intention.
+Des produits livrés, pas seulement des maquettes. Chaque projet ci-dessous montre une manière différente de transformer une intention en expérience numérique.
 
-| Projet | Ce que j’ai construit | Technologies | Liens |
-|---|---|---|---|
-| **Cowri — Identité financière** | Une application fintech SaaS pour suivre, comprendre et piloter ses finances au quotidien. | React · TypeScript · Node.js · PostgreSQL · Tailwind | [Démo](https://cowrii.onrender.com) · [Dépôt](https://github.com/Marie-Otniel/cowriidentite) |
-| **APDD Event — Félicien Houngnibo** | Un portfolio premium pour un brand designer et photographe, avec une mise en scène éditoriale du travail créatif. | React · TypeScript · Tailwind · Framer Motion | [Démo](https://elite-visual-showcase.lovable.app/) · [Dépôt](https://github.com/Marie-Otniel/elite-visual-showcase) |
-| **Cave du Nord** | Une expérience digitale sombre et élégante pour un restaurant-bar lounge, avec menu, galerie et réservation. | React · Tailwind · Vercel · i18n | [Démo](https://cavedunord.vercel.app/) · [Dépôt](https://github.com/Marie-Otniel/cavefu) |
-| **Fleurielle — Copywriter** | Un site personnel orienté conversion pour clarifier le positionnement et le parcours d’une copywriter. | React · TypeScript · Tailwind · Vercel | [Démo](https://fleurielle.vercel.app/) · [Dépôt](https://github.com/Marie-Otniel/fleurielle-s-enchanted-words) |
-| **Éclat Couture** | Une vitrine digitale raffinée pour une maison de couture, avec collections, storytelling et parcours d’achat. | React · TypeScript · Tailwind · Framer Motion | [Démo](https://eclatcouture.lovable.app/) · [Dépôt](https://github.com/Marie-Otniel/eclatcouture) |
+### Cowri — Identité financière
+
+![Cowri — Identité financière](https://marieotniel.lovable.app/assets/project-cowrii-1tEBPcgG.png)
+
+**Fintech SaaS · Produit · IA**
+
+Une application conçue pour aider les petits commerçants et utilisateurs à suivre, comprendre et piloter leur activité financière au quotidien.
+
+`React` `TypeScript` `Node.js` `PostgreSQL` `Tailwind`
+
+[Voir la démo →](https://cowrii.onrender.com) · [Explorer le dépôt →](https://github.com/Marie-Otniel/cowriidentite)
+
+### APDD Event — Félicien Houngnibo
+
+![APDD Event — Félicien Houngnibo](https://marieotniel.lovable.app/assets/project-elite-BTy-jzYc.png)
+
+**Portfolio premium · Direction artistique · Motion**
+
+Un portfolio pensé pour mettre en scène le travail d’un brand designer et photographe sans laisser l’interface voler la vedette au contenu.
+
+`React` `TypeScript` `Tailwind` `Framer Motion`
+
+[Voir la démo →](https://elite-visual-showcase.lovable.app/) · [Explorer le dépôt →](https://github.com/Marie-Otniel/elite-visual-showcase)
+
+### Cave du Nord
+
+![Cave du Nord](https://marieotniel.lovable.app/assets/project-cavedunord-IV6I2yk5.png)
+
+**Restaurant · Bar · Lounge · Réservation**
+
+Une présence digitale sombre et élégante qui réunit menu, galerie, ambiance de marque et parcours de réservation.
+
+`React` `Tailwind` `Vercel` `i18n`
+
+[Voir la démo →](https://cavedunord.vercel.app/) · [Explorer le dépôt →](https://github.com/Marie-Otniel/cavefu)
+
+### Fleurielle — Copywriter
+
+![Fleurielle — Copywriter](https://marieotniel.lovable.app/assets/project-fleurielle-DHKuc24t.png)
+
+**Positionnement · Copywriting · Conversion**
+
+Un site personnel qui transforme une expertise en message clair, portfolio lisible et parcours de conversion cohérent.
+
+`React` `TypeScript` `Tailwind` `Vercel`
+
+[Voir la démo →](https://fleurielle.vercel.app/) · [Explorer le dépôt →](https://github.com/Marie-Otniel/fleurielle-s-enchanted-words)
+
+### Éclat Couture
+
+![Éclat Couture](https://marieotniel.lovable.app/assets/project-eclat-CydwWiZR.png)
+
+**E-commerce · Mode · Storytelling**
+
+Une vitrine digitale raffinée qui fait passer une maison de couture de la collection racontée à l’expérience d’achat.
+
+`React` `TypeScript` `Tailwind` `Framer Motion`
+
+[Voir la démo →](https://eclatcouture.lovable.app/) · [Explorer le dépôt →](https://github.com/Marie-Otniel/eclatcouture)
 
 [Voir tous mes dépôts →](https://github.com/Marie-Otniel?tab=repositories) · [Voir le portfolio complet →](https://marieotniel.lovable.app)
 
@@ -104,15 +156,11 @@ Je ne commence pas par choisir une technologie. Je commence par chercher ce qui 
 
 **04 — Transmettre.** Documenter les choix et raconter le produit pour que sa valeur ne reste pas invisible.
 
-## Laboratoire ouvert
+## En ce moment
 
-En ce moment, j’explore :
+Je construis des expériences où **l’IA reste utile, le produit reste humain et le message reste clair**. Mes explorations actuelles portent sur les assistants intelligents, les SaaS à taille humaine, les interfaces qui expliquent au lieu de distraire et les formats de rédaction qui aident à mieux penser avant de mieux coder.
 
-- la place de l’IA dans la conception et le développement web ;
-- les façons de rendre un produit technique plus humain et plus accessible ;
-- les formats de rédaction qui aident à mieux penser avant de mieux coder.
-
-[Visiter mon espace Dev Writer →](https://dev-writer-core.vercel.app/)
+[Visiter mon espace Dev Writer →](https://dev-writer-core.vercel.app/) · [Découvrir mon portfolio →](https://marieotniel.lovable.app)
 
 ## Signaux de progression
 
@@ -137,7 +185,9 @@ Les chiffres ne racontent pas tout, mais ils montrent les terrains où je constr
 
 ## Une collaboration commence souvent par une phrase
 
-Vous avez une idée encore floue, un produit à clarifier ou un sujet technique à rendre accessible ? Écrivez-moi sur [LinkedIn](https://www.linkedin.com/in/marie-otniel-houedote) ou par [email](mailto:houedotemarieotniel@gmail.com).
+Vous avez une idée encore floue, un produit à clarifier ou un sujet technique à rendre accessible ? Je peux vous aider à passer de l’intention à une expérience claire, crédible et prête à être utilisée.
+
+[Parlons de votre projet sur LinkedIn →](https://www.linkedin.com/in/marie-otniel-houedote) · [M’écrire par email →](mailto:houedotemarieotniel@gmail.com) · [Discuter sur WhatsApp →](https://wa.me/2290147812776?text=Bonjour%20Marie-Otniel%2C%20je%20viens%20de%20d%C3%A9couvrir%20votre%20profil%20GitHub%20et%20j%27aimerais%20discuter%20d%27un%20projet.)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Marie-Otniel&color=22d3ee&style=flat-square&label=Visiteurs" alt="Visites du profil" />
