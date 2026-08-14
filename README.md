@@ -19,7 +19,9 @@
 
 ## Je construis ce qui rend les idées plus claires.
 
-Je suis **développeur web et Dev Writer** : je transforme des problèmes complexes en produits lisibles, des interfaces utiles et des récits techniques qui donnent envie d’avancer. Entre code, IA et écriture, je travaille sur ce qui se voit — et surtout sur ce qui rend une expérience évidente.
+Je suis **développeur Full Stack, Product Builder et Dev Writer** : je transforme des problèmes complexes en produits lisibles, des interfaces utiles et des récits techniques qui donnent envie d’avancer. Entre code, IA et écriture, je travaille sur ce qui se voit — et surtout sur ce qui rend une expérience évidente.
+
+**Plus de 10 projets livrés · une présence dans 7 pays · une même obsession : rendre les idées plus claires.**
 
 > **Invisible décisif.** Une bonne structure enlève un doute. Une bonne interface raccourcit une décision. Un bon texte permet enfin au produit d’être compris.
 
@@ -36,44 +38,38 @@ Je suis **développeur web et Dev Writer** : je transforme des problèmes comple
 ## Technologies que j’utilise pour donner forme aux idées
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=typescript,javascript,react,vite,tailwind,nodejs,supabase,postgres,git,github,figma,vscode&perline=6" height="160" alt="Technologies utilisées : TypeScript, JavaScript, React, Vite, Tailwind CSS, Node.js, Supabase, PostgreSQL, Git, GitHub, Figma et VS Code" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,vite,tailwind,nodejs,supabase,postgres,git,github,openai,framer,docker&perline=8" height="190" alt="Technologies utilisées : HTML, CSS, JavaScript, TypeScript, React, Next.js, Vite, Tailwind CSS, Node.js, Supabase, PostgreSQL, Git, GitHub, OpenAI, Framer Motion et Docker" />
 </p>
 
-### Interfaces & expérience
+### Frontend & expérience
 
 <p>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111827" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Framer_Motion-EF008F?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion" />
 </p>
 
-### Données & services web
+### Backend, données & déploiement
 
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/API_REST-0891B2?style=for-the-badge&logo=fastapi&logoColor=white" alt="API REST" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 </p>
 
-### IA, contenu & automatisation
+### IA & versioning
 
 <p>
-  <img src="https://img.shields.io/badge/IA_appliquée-10A37F?style=for-the-badge&logo=openai&logoColor=white" alt="IA appliquée" />
-  <img src="https://img.shields.io/badge/Prompt_Engineering-7C3AED?style=for-the-badge&logo=probot&logoColor=white" alt="Prompt engineering" />
-  <img src="https://img.shields.io/badge/UX_Writing-DB2777?style=for-the-badge&logo=readthedocs&logoColor=white" alt="UX writing" />
-  <img src="https://img.shields.io/badge/Documentation-475569?style=for-the-badge&logo=markdown&logoColor=white" alt="Documentation" />
-</p>
-
-### Outils de construction
-
-<p>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
 </p>
 
 Je m’intéresse particulièrement à la rencontre entre **expérience utilisateur**, **identité numérique**, **automatisation** et **rédaction technique**.
