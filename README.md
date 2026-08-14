@@ -1,125 +1,101 @@
 <p align="center">
-  <img src="./banner.png" alt="Marie-Otniel — Dev Writer" width="100%" />
+  <img src="./banner.png" alt="Dev Writer — Invisible décisif" width="100%" />
 </p>
 
 <p align="center">
-  <a href="https://dev-writer-core.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-Dev%20Writer-22d3ee?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/marie-otniel-houedote"><img src="https://img.shields.io/badge/LINKEDIN-Marie--Otniel-2563eb?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:houedotemarieotniel@gmail.com"><img src="https://img.shields.io/badge/EMAIL-Contact-0891b2?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://dev-writer-core.vercel.app/"><img src="https://img.shields.io/badge/Explorer%20mon%20univers-22d3ee?style=flat-square&logo=vercel&logoColor=white" alt="Explorer mon univers" /></a>
+  <a href="https://www.linkedin.com/in/marie-otniel-houedote"><img src="https://img.shields.io/badge/Me%20retrouver%20sur%20LinkedIn-2563eb?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:houedotemarieotniel@gmail.com"><img src="https://img.shields.io/badge/Parler%20d'un%20projet-0891b2?style=flat-square&logo=gmail&logoColor=white" alt="Contact email" /></a>
 </p>
 
-<h1 align="center">Marie-Otniel HOUEDOTE</h1>
+# Marie-Otniel HOUEDOTE
 
-<p align="center">
-  <strong>Dev Writer · Développeur web · Créateur de produits numériques</strong>
-</p>
+## Je transforme des idées difficiles à expliquer en expériences faciles à comprendre.
 
-> **Les idées méritent mieux qu’un concept : elles méritent une expérience claire, utile et bien construite.**
+Je suis **développeur web et Dev Writer**. Je construis des produits numériques, j’explore l’IA appliquée au travail créatif et technique, et j’écris pour rendre les systèmes plus lisibles — pour les utilisateurs comme pour les équipes qui les construisent.
 
-## `$ whoami`
+> **Invisible décisif.** Ce qui compte n’est pas toujours ce qui se voit le plus. C’est parfois la structure qui rend une décision simple, l’interface qui enlève un doute ou le texte qui permet enfin d’avancer.
 
-```ts
-const marieOtniel: Developer = {
-  nom: "Marie-Otniel Houedote",
-  localisation: "Parakou, Bénin — GMT+1",
-  tagline: "Invisible décisif — comme le bon code.",
-  rôles: [
-    "Développeur web — interfaces, produits numériques et expériences utiles",
-    "Dev Writer — rédaction technique, pédagogie et storytelling produit",
-    "Explorateur IA — outils et workflows pour mieux concevoir et développer",
-  ],
-  domaines: [
-    "Développement web moderne",
-    "Identité numérique",
-    "Intelligence artificielle appliquée",
-    "Rédaction technique",
-  ],
-  disponibilité: "Ouvert aux collaborations et projets à impact",
-  portfolio: "https://dev-writer-core.vercel.app/",
-};
-```
+---
 
-## Stack technique
+## Ce que je construis
 
-| Domaine | Outils |
+| Axe | Mon approche |
 |---|---|
-| **Frontend** | TypeScript · JavaScript · React · Vite · Tailwind CSS |
-| **Backend & données** | Node.js · Supabase · PostgreSQL · APIs REST |
-| **Produit & design** | Figma · Design systems · UX writing · Accessibilité |
-| **IA & automatisation** | APIs IA · Prompt engineering · Workflows augmentés |
-| **Outils de travail** | Git · GitHub · VS Code · Déploiement web |
+| **Produits web** | Des interfaces rapides, lisibles et pensées autour d’un vrai besoin. |
+| **IA appliquée** | Des usages concrets qui augmentent la réflexion au lieu de remplacer le jugement. |
+| **Récits techniques** | Des textes, documentations et explications qui donnent envie de comprendre. |
 
-## Réalisations
+## Mon terrain de jeu
 
-**15+ projets satisfaisants** · Produits web · Identité numérique · IA · Expériences digitales · Afrique & international
+`TypeScript` `JavaScript` `React` `Vite` `Tailwind CSS` `Node.js` `Supabase` `PostgreSQL` `Git` `Figma`
 
-### Projets mis en avant
+Je m’intéresse particulièrement à la rencontre entre **expérience utilisateur**, **identité numérique**, **automatisation** et **rédaction technique**.
 
-| Projet | Ce que j’y construis | Lien |
+## Des projets avec une intention
+
+Je ne présente pas seulement des dépôts ; je présente des directions de travail.
+
+| Projet | Intention | Explorer |
 |---|---|---|
-| **Cowri Identité** | Une expérience web autour de l’identité numérique et de la présentation de soi. | [Voir le dépôt](https://github.com/Marie-Otniel/cowriidentite) |
-| **Dev Writer Core** | Un espace au croisement du développement, de la rédaction technique et de l’IA. | [Voir le dépôt](https://github.com/Marie-Otniel/dev-writer-core) |
-| **RiseUp Africa Platform** | Une plateforme numérique orientée initiatives, visibilité et impact. | [Voir le dépôt](https://github.com/Marie-Otniel/riseup-africa-platform) |
-| **Cowri Studio** | Un projet créatif pour présenter des produits et expériences numériques. | [Voir le dépôt](https://github.com/Marie-Otniel/cowristudio) |
-| **Venance** | Une expérience web conçue autour d’une présentation claire et contemporaine. | [Voir le dépôt](https://github.com/Marie-Otniel/venance) |
-| **Éclat Couture** | Une vitrine digitale pensée pour valoriser une identité de marque. | [Voir le dépôt](https://github.com/Marie-Otniel/eclatcouture) |
+| **Cowri Identité** | Rendre une identité numérique plus claire, plus personnelle et plus mémorable. | [Dépôt](https://github.com/Marie-Otniel/cowriidentite) |
+| **Dev Writer Core** | Réunir développement, écriture et IA dans un espace de création cohérent. | [Dépôt](https://github.com/Marie-Otniel/dev-writer-core) |
+| **RiseUp Africa Platform** | Donner une forme numérique à des initiatives qui méritent davantage de visibilité. | [Dépôt](https://github.com/Marie-Otniel/riseup-africa-platform) |
+| **Cowri Studio** | Construire une vitrine digitale avec une vraie présence visuelle. | [Dépôt](https://github.com/Marie-Otniel/cowristudio) |
+| **Venance** | Explorer une présentation web contemporaine, sobre et orientée expérience. | [Dépôt](https://github.com/Marie-Otniel/venance) |
+| **Éclat Couture** | Mettre une identité de marque au centre d’une expérience digitale élégante. | [Dépôt](https://github.com/Marie-Otniel/eclatcouture) |
 
-[Voir tous mes dépôts →](https://github.com/Marie-Otniel?tab=repositories)
+[Voir l’ensemble de mes dépôts →](https://github.com/Marie-Otniel?tab=repositories)
 
-## Parcours & manière de travailler
+## Comment je travaille
 
-Je pars d’une intention, je la transforme en structure, puis je construis une interface qui permet de la comprendre et de l’utiliser. Mon approche relie **conception produit**, **développement**, **contenu** et **itération**.
+Je ne commence pas par choisir une technologie. Je commence par chercher ce qui doit devenir plus clair.
 
-| Étape | Ce que je recherche |
-|---|---|
-| **Comprendre** | Le vrai problème, le contexte et les personnes concernées. |
-| **Structurer** | Une architecture simple, une hiérarchie claire et des priorités réalistes. |
-| **Construire** | Une expérience rapide, lisible et cohérente avec le besoin. |
-| **Expliquer** | Une documentation et un contenu qui rendent le produit compréhensible. |
+**01 — Observer.** Comprendre le contexte, la personne et le problème réel derrière la demande.
 
-## Notes & explorations
+**02 — Clarifier.** Réduire le bruit, organiser l’information et définir ce qui mérite vraiment d’être construit.
 
-Je publie des réflexions sur le développement web, l’intelligence artificielle, la productivité technique et les réalités humaines derrière la création de produits numériques.
+**03 — Construire.** Transformer l’intention en une expérience qui fonctionne, qui se lit et qui peut évoluer.
 
-- [Découvrir mon portfolio Dev Writer](https://dev-writer-core.vercel.app/)
-- [Lire mes projets et expérimentations](https://github.com/Marie-Otniel?tab=repositories)
-- [Me retrouver sur LinkedIn](https://www.linkedin.com/in/marie-otniel-houedote)
+**04 — Transmettre.** Documenter les choix et raconter le produit pour que sa valeur ne reste pas invisible.
 
-## GitHub en chiffres
+## Laboratoire ouvert
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Marie-Otniel&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&border_radius=12" height="170" alt="Statistiques GitHub de Marie-Otniel" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marie-Otniel&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&border_radius=12" height="170" alt="Langages les plus utilisés" />
-</p>
+En ce moment, j’explore :
+
+- la place de l’IA dans la conception et le développement web ;
+- les façons de rendre un produit technique plus humain et plus accessible ;
+- les formats de rédaction qui aident à mieux penser avant de mieux coder.
+
+[Visiter mon espace Dev Writer →](https://dev-writer-core.vercel.app/)
+
+## Signaux de progression
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Marie-Otniel&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=4" alt="Trophées GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Marie-Otniel&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&border_radius=12" height="170" alt="Statistiques GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marie-Otniel&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&border_radius=12" height="170" alt="Langages utilisés" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Marie-Otniel&theme=tokyo-night&hide_border=true&area=true" alt="Graphique d’activité GitHub" width="95%" />
 </p>
 
-## Contributions
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Marie-Otniel/Marie-Otniel/output/github-contribution-grid-snake.svg" alt="Animation des contributions GitHub" width="95%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Marie-Otniel&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=4" alt="Trophées GitHub" />
 </p>
 
-## Travaillons ensemble
+## Une collaboration commence souvent par une phrase
 
-Vous avez une idée de produit, une interface à clarifier ou un sujet technique à rendre accessible ? Écrivez-moi sur [LinkedIn](https://www.linkedin.com/in/marie-otniel-houedote) ou par [email](mailto:houedotemarieotniel@gmail.com).
+Vous avez une idée encore floue, un produit à clarifier ou un sujet technique à rendre accessible ? Écrivez-moi sur [LinkedIn](https://www.linkedin.com/in/marie-otniel-houedote) ou par [email](mailto:houedotemarieotniel@gmail.com).
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Marie-Otniel&color=22d3ee&style=flat-square&label=Visiteurs%20du%20profil" alt="Visites du profil" />
+  <img src="https://komarev.com/ghpvc/?username=Marie-Otniel&color=22d3ee&style=flat-square&label=Visiteurs" alt="Visites du profil" />
 </p>
 
 <p align="center">
   <em>Construire clairement. Écrire utilement. Décider avec intention.</em>
 </p>
 
----
-
 <p align="center">
-  <sub>Depuis le Bénin, pour le web et au-delà.</sub>
+  <sub>Parakou, Bénin · Disponible pour des projets qui ont quelque chose à dire.</sub>
 </p>
