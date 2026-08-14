@@ -26,9 +26,44 @@ Je suis **développeur web et Dev Writer**. Je construis des produits numérique
 | **IA appliquée** | Des usages concrets qui augmentent la réflexion au lieu de remplacer le jugement. |
 | **Récits techniques** | Des textes, documentations et explications qui donnent envie de comprendre. |
 
-## Mon terrain de jeu
+## Technologies que j’utilise pour donner forme aux idées
 
-`TypeScript` `JavaScript` `React` `Vite` `Tailwind CSS` `Node.js` `Supabase` `PostgreSQL` `Git` `Figma`
+### Interfaces & expérience
+
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-0f172a?style=for-the-badge&logo=typescript&logoColor=22d3ee" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-0f172a?style=for-the-badge&logo=javascript&logoColor=facc15" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-0f172a?style=for-the-badge&logo=react&logoColor=61dafb" alt="React" />
+  <img src="https://img.shields.io/badge/Vite-0f172a?style=for-the-badge&logo=vite&logoColor=646cff" alt="Vite" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-0f172a?style=for-the-badge&logo=tailwindcss&logoColor=38bdf8" alt="Tailwind CSS" />
+</p>
+
+### Données & services web
+
+<p>
+  <img src="https://img.shields.io/badge/Node.js-0f172a?style=for-the-badge&logo=node.js&logoColor=68a063" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Supabase-0f172a?style=for-the-badge&logo=supabase&logoColor=3ecf8e" alt="Supabase" />
+  <img src="https://img.shields.io/badge/PostgreSQL-0f172a?style=for-the-badge&logo=postgresql&logoColor=4169e1" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/API_REST-0f172a?style=for-the-badge&logo=fastapi&logoColor=22d3ee" alt="API REST" />
+</p>
+
+### IA, contenu & automatisation
+
+<p>
+  <img src="https://img.shields.io/badge/IA_appliquée-0f172a?style=for-the-badge&logo=openai&logoColor=22d3ee" alt="IA appliquée" />
+  <img src="https://img.shields.io/badge/Prompt_Engineering-0f172a?style=for-the-badge&logo=probot&logoColor=a78bfa" alt="Prompt engineering" />
+  <img src="https://img.shields.io/badge/UX_Writing-0f172a?style=for-the-badge&logo=readthedocs&logoColor=f0abfc" alt="UX writing" />
+  <img src="https://img.shields.io/badge/Documentation-0f172a?style=for-the-badge&logo=markdown&logoColor=ffffff" alt="Documentation" />
+</p>
+
+### Outils de construction
+
+<p>
+  <img src="https://img.shields.io/badge/Git-0f172a?style=for-the-badge&logo=git&logoColor=f05032" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Figma-0f172a?style=for-the-badge&logo=figma&logoColor=f24e1e" alt="Figma" />
+  <img src="https://img.shields.io/badge/VS_Code-0f172a?style=for-the-badge&logo=visualstudiocode&logoColor=22d3ee" alt="VS Code" />
+</p>
 
 Je m’intéresse particulièrement à la rencontre entre **expérience utilisateur**, **identité numérique**, **automatisation** et **rédaction technique**.
 
