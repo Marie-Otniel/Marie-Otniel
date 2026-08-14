@@ -8,6 +8,13 @@
   <a href="mailto:houedotemarieotniel@gmail.com"><img src="https://img.shields.io/badge/Parler%20d'un%20projet-0891b2?style=flat-square&logo=gmail&logoColor=white" alt="Contact email" /></a>
 </p>
 
+<p align="center">
+  <a href="https://github.com/Marie-Otniel?tab=repositories"><img src="https://img.shields.io/badge/Explorer_les_dépôts-0f172a?style=for-the-badge&logo=github&logoColor=ffffff" alt="Explorer les dépôts" /></a>
+  <a href="https://github.com/Marie-Otniel?tab=overview"><img src="https://img.shields.io/badge/Suivre_l'activité-0f172a?style=for-the-badge&logo=github&logoColor=22d3ee" alt="Suivre l'activité" /></a>
+  <a href="https://github.com/Marie-Otniel/Marie-Otniel/actions"><img src="https://img.shields.io/badge/Automatisations-0f172a?style=for-the-badge&logo=githubactions&logoColor=2088ff" alt="Automatisations GitHub" /></a>
+  <a href="https://github.com/Marie-Otniel?tab=followers"><img src="https://img.shields.io/github/followers/Marie-Otniel?style=for-the-badge&label=Followers&color=0891b2&logo=github" alt="Followers GitHub" /></a>
+</p>
+
 # Marie-Otniel HOUEDOTE
 
 ## Je transforme des idées difficiles à expliquer en expériences faciles à comprendre.
