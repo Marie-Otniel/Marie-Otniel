@@ -140,6 +140,21 @@ Une vitrine digitale raffinée qui fait passer une maison de couture de la colle
 
 [Voir tous mes dépôts →](https://github.com/Marie-Otniel?tab=repositories) · [Voir le portfolio complet →](https://marieotniel.lovable.app)
 
+## La clarté se remarque aussi dans le travail
+
+Des fondateurs, designers et professionnels qui ont vécu la collaboration de l’intérieur.
+
+> « Marie-Otniel a livré un portfolio à la hauteur de mon travail : élégant, rapide et fluide. Un vrai partenaire créatif. »  
+> **Félicien Houngnibo** · APDD Event — Portfolio photographe & brand designer · [Voir le portfolio](https://marieotniel.lovable.app)
+
+> « Un site qui reflète parfaitement l’ambiance du lounge. Les réservations en ligne ont décollé dès la première semaine. »  
+> **Gérant de Cave du Nord** · Restaurant & Lounge, Parakou · [Voir le portfolio](https://marieotniel.lovable.app)
+
+> « Écoute parfaite, exécution rapide, résultat au-delà de mes attentes. Mon positionnement est enfin clair. »  
+> **Fleurielle** · Copywriter certifiée · [Voir le portfolio](https://marieotniel.lovable.app)
+
+[Découvrir les autres témoignages sur le portfolio →](https://marieotniel.lovable.app/#temoignages)
+
 ## Comment je travaille
 
 Je ne commence pas par choisir une technologie. Je commence par chercher ce qui doit devenir plus clair.
