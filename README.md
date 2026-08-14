@@ -140,20 +140,39 @@ Une vitrine digitale raffinée qui fait passer une maison de couture de la colle
 
 [Voir tous mes dépôts →](https://github.com/Marie-Otniel?tab=repositories) · [Voir le portfolio complet →](https://marieotniel.lovable.app)
 
+## Signaux de confiance
+
+<p align="center">
+  <img src="https://img.shields.io/badge/10%2B-Projets%20livr%C3%A9s-22d3ee?style=for-the-badge&labelColor=0f172a" alt="Plus de 10 projets livrés" />
+  <img src="https://img.shields.io/badge/7-Pays%20touch%C3%A9s-8b5cf6?style=for-the-badge&labelColor=0f172a" alt="Présence dans 7 pays" />
+  <img src="https://img.shields.io/badge/1%2C5%20an-Exp%C3%A9rience-10b981?style=for-the-badge&labelColor=0f172a" alt="1,5 an d’expérience" />
+</p>
+
+> Ces indicateurs proviennent des informations publiques présentées sur mon portfolio. Ils donnent le contexte ; les témoignages montrent la qualité de la collaboration.
+
 ## La clarté se remarque aussi dans le travail
 
 Des fondateurs, designers et professionnels qui ont vécu la collaboration de l’intérieur.
 
 > « Marie-Otniel a livré un portfolio à la hauteur de mon travail : élégant, rapide et fluide. Un vrai partenaire créatif. »  
-> **Félicien Houngnibo** · APDD Event — Portfolio photographe & brand designer · [Voir le portfolio](https://marieotniel.lovable.app)
+> **Félicien Houngnibo** · APDD Event — Portfolio photographe & brand designer  
+> ![Preuve](https://img.shields.io/badge/Preuve-Portfolio%20%C3%A9l%C3%A9gant%2C%20rapide%20et%20fluide-22d3ee?style=for-the-badge&labelColor=0f172a)  
+> [Voir le projet →](https://elite-visual-showcase.lovable.app/) · [Voir le portfolio →](https://marieotniel.lovable.app/#temoignages)
 
 > « Un site qui reflète parfaitement l’ambiance du lounge. Les réservations en ligne ont décollé dès la première semaine. »  
-> **Gérant de Cave du Nord** · Restaurant & Lounge, Parakou · [Voir le portfolio](https://marieotniel.lovable.app)
+> **Gérant de Cave du Nord** · Restaurant & Lounge, Parakou  
+> ![Preuve](https://img.shields.io/badge/Preuve-R%C3%A9servations%20en%20ligne%20activ%C3%A9es-10b981?style=for-the-badge&labelColor=0f172a)  
+> [Voir le projet →](https://cavedunord.vercel.app/) · [Voir le portfolio →](https://marieotniel.lovable.app/#temoignages)
 
 > « Écoute parfaite, exécution rapide, résultat au-delà de mes attentes. Mon positionnement est enfin clair. »  
-> **Fleurielle** · Copywriter certifiée · [Voir le portfolio](https://marieotniel.lovable.app)
+> **Fleurielle** · Copywriter certifiée  
+> ![Preuve](https://img.shields.io/badge/Preuve-Positionnement%20clarifi%C3%A9-ec4899?style=for-the-badge&labelColor=0f172a)  
+> [Voir le projet →](https://fleurielle.vercel.app/) · [Voir le portfolio →](https://marieotniel.lovable.app/#temoignages)
 
-[Découvrir les autres témoignages sur le portfolio →](https://marieotniel.lovable.app/#temoignages)
+<p align="center">
+  <a href="https://marieotniel.lovable.app/#temoignages"><img src="https://img.shields.io/badge/D%C3%A9couvrir-les%20autres%20t%C3%A9moignages-0f172a?style=for-the-badge&logo=readme&logoColor=22d3ee" alt="Découvrir les autres témoignages" /></a>
+  <a href="mailto:houedotemarieotniel@gmail.com"><img src="https://img.shields.io/badge/Parler-d%27un%20projet-0891b2?style=for-the-badge&logo=gmail&logoColor=white" alt="Parler d’un projet" /></a>
+</p>
 
 ## Comment je travaille
 
