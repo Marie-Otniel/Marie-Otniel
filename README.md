@@ -116,6 +116,10 @@ En ce moment, j’explore :
 </p>
 
 <p align="center">
+  <img src="https://streak-stats.demolab.com?user=Marie-Otniel&theme=tokyonight&hide_border=true&border_radius=12&date_format=j%20M%5B%20Y%5D" alt="Série de contributions GitHub" width="70%" />
+</p>
+
+<p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Marie-Otniel&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=4" alt="Trophées GitHub" />
 </p>
 
