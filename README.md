@@ -35,41 +35,45 @@ Je suis **développeur web et Dev Writer** : je transforme des problèmes comple
 
 ## Technologies que j’utilise pour donner forme aux idées
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=typescript,javascript,react,vite,tailwind,nodejs,supabase,postgres,git,github,figma,vscode&perline=6" height="160" alt="Technologies utilisées : TypeScript, JavaScript, React, Vite, Tailwind CSS, Node.js, Supabase, PostgreSQL, Git, GitHub, Figma et VS Code" />
+</p>
+
 ### Interfaces & expérience
 
 <p>
-  <img src="https://img.shields.io/badge/TypeScript-0f172a?style=for-the-badge&logo=typescript&logoColor=22d3ee" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-0f172a?style=for-the-badge&logo=javascript&logoColor=facc15" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/React-0f172a?style=for-the-badge&logo=react&logoColor=61dafb" alt="React" />
-  <img src="https://img.shields.io/badge/Vite-0f172a?style=for-the-badge&logo=vite&logoColor=646cff" alt="Vite" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-0f172a?style=for-the-badge&logo=tailwindcss&logoColor=38bdf8" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111827" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
 </p>
 
 ### Données & services web
 
 <p>
-  <img src="https://img.shields.io/badge/Node.js-0f172a?style=for-the-badge&logo=node.js&logoColor=68a063" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Supabase-0f172a?style=for-the-badge&logo=supabase&logoColor=3ecf8e" alt="Supabase" />
-  <img src="https://img.shields.io/badge/PostgreSQL-0f172a?style=for-the-badge&logo=postgresql&logoColor=4169e1" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/API_REST-0f172a?style=for-the-badge&logo=fastapi&logoColor=22d3ee" alt="API REST" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/API_REST-0891B2?style=for-the-badge&logo=fastapi&logoColor=white" alt="API REST" />
 </p>
 
 ### IA, contenu & automatisation
 
 <p>
-  <img src="https://img.shields.io/badge/IA_appliquée-0f172a?style=for-the-badge&logo=openai&logoColor=22d3ee" alt="IA appliquée" />
-  <img src="https://img.shields.io/badge/Prompt_Engineering-0f172a?style=for-the-badge&logo=probot&logoColor=a78bfa" alt="Prompt engineering" />
-  <img src="https://img.shields.io/badge/UX_Writing-0f172a?style=for-the-badge&logo=readthedocs&logoColor=f0abfc" alt="UX writing" />
-  <img src="https://img.shields.io/badge/Documentation-0f172a?style=for-the-badge&logo=markdown&logoColor=ffffff" alt="Documentation" />
+  <img src="https://img.shields.io/badge/IA_appliquée-10A37F?style=for-the-badge&logo=openai&logoColor=white" alt="IA appliquée" />
+  <img src="https://img.shields.io/badge/Prompt_Engineering-7C3AED?style=for-the-badge&logo=probot&logoColor=white" alt="Prompt engineering" />
+  <img src="https://img.shields.io/badge/UX_Writing-DB2777?style=for-the-badge&logo=readthedocs&logoColor=white" alt="UX writing" />
+  <img src="https://img.shields.io/badge/Documentation-475569?style=for-the-badge&logo=markdown&logoColor=white" alt="Documentation" />
 </p>
 
 ### Outils de construction
 
 <p>
-  <img src="https://img.shields.io/badge/Git-0f172a?style=for-the-badge&logo=git&logoColor=f05032" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Figma-0f172a?style=for-the-badge&logo=figma&logoColor=f24e1e" alt="Figma" />
-  <img src="https://img.shields.io/badge/VS_Code-0f172a?style=for-the-badge&logo=visualstudiocode&logoColor=22d3ee" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
 </p>
 
 Je m’intéresse particulièrement à la rencontre entre **expérience utilisateur**, **identité numérique**, **automatisation** et **rédaction technique**.
