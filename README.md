@@ -17,11 +17,11 @@
 
 # Marie-Otniel HOUEDOTE
 
-## Je transforme des idées difficiles à expliquer en expériences faciles à comprendre.
+## Je construis ce qui rend les idées plus claires.
 
-Je suis **développeur web et Dev Writer**. Je construis des produits numériques, j’explore l’IA appliquée au travail créatif et technique, et j’écris pour rendre les systèmes plus lisibles — pour les utilisateurs comme pour les équipes qui les construisent.
+Je suis **développeur web et Dev Writer** : je transforme des problèmes complexes en produits lisibles, des interfaces utiles et des récits techniques qui donnent envie d’avancer. Entre code, IA et écriture, je travaille sur ce qui se voit — et surtout sur ce qui rend une expérience évidente.
 
-> **Invisible décisif.** Ce qui compte n’est pas toujours ce qui se voit le plus. C’est parfois la structure qui rend une décision simple, l’interface qui enlève un doute ou le texte qui permet enfin d’avancer.
+> **Invisible décisif.** Une bonne structure enlève un doute. Une bonne interface raccourcit une décision. Un bon texte permet enfin au produit d’être compris.
 
 ---
 
@@ -113,9 +113,11 @@ En ce moment, j’explore :
 
 ## Signaux de progression
 
+Les chiffres ne racontent pas tout, mais ils montrent les terrains où je construis le plus : activité, commits et langages utilisés.
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Marie-Otniel&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&border_radius=12" height="170" alt="Statistiques GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marie-Otniel&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&border_radius=12" height="170" alt="Langages utilisés" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Marie-Otniel&show_icons=true&include_all_commits=true&count_private=false&hide_rank=false&theme=tokyonight&hide_border=true&border_radius=12" height="170" alt="Statistiques de contributions et commits GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marie-Otniel&layout=compact&langs_count=6&hide_progress=false&theme=tokyonight&hide_border=true&border_radius=12" height="170" alt="Langages utilisés dans les dépôts GitHub" />
 </p>
 
 <p align="center">
